@@ -1,6 +1,6 @@
 # Relevant_Repo_Reads
 
-This repository contains a collection of **useful repositories and resources** that I use daily for AI Engineering, Data Structures & Algorithms (DSA), Development, MLOps, and DevOps.
+This repository contains a collection of **useful repositories and resources** that I use daily for AI Engineering, Data Structures & Algorithms (DSA), Development, MLOps, Intelligent Systems, AI Agents, LLMs and DevOps.
 
 ---
 
@@ -54,4 +54,25 @@ This repository contains a collection of **useful repositories and resources** t
 
 > Most commonly, only EASY to MEDIUM level questions are seen in interviews. HARD questions are for leisure/off-hand problem solving.
 
+---
+
+## 4. Books
+
+**A wide variety of books are avaliable for DSA throughout the internet here's what works for me:**
+
+### a. CLRS 
+- Full Name : Introduction to Algorithms by THOMAS H. `CORMEN` CHARLES E. `LEISERSON` RONALD L. `RIVEST` CLIFFORD `STEIN`
+  *An absolute must book if you want to truly understand Algorithms and a lot of data structures.*
+
+### b. ALGORITHMS ILLUMINATED
+*Written by : Tim Roughgarden*
+- Part 1 : The Basics
+- Part 2 : Graph Algorithms and Data Structures
+- Part 3 : Greedy Algorithms and Dynamic Programming
+- Part 4 : **SKIP THIS PART IT WILL BE OF NO USE UNLESS YOU ARE LEARNING COMPETITIVE PROGRAMMING**
+
+### c. DATA STRUCTURES AND ALGORITHMS MADE EASY
+*Written by : Narasimha Karunmanchi*
+
+> All the books are not needed to be read completly, I'll update which books to read in for which topic. 
 ---
