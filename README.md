@@ -1,6 +1,14 @@
 # Relevant_Repo_Reads
 
-This repository contains a collection of **useful repositories and resources** that I use daily for AI Engineering, Data Structures & Algorithms (DSA), Development, MLOps, Intelligent Systems, AI Agents, LLMs and DevOps.
+A curated collection of **essential repositories and resources** I use daily for:
+- AI Engineering
+- Data Structures & Algorithms (DSA)
+- Development
+- MLOps
+- Intelligent Systems
+- AI Agents
+- LLMs
+- DevOps
 
 ---
 
@@ -16,17 +24,17 @@ This repository contains a collection of **useful repositories and resources** t
 
 ## 2. Data Structures and Algorithms
 
-*All-in-one resources for Data Structures and Algorithms which I personally prefer.*
+*All-in-one resources for DSA that I personally recommend.*
 
 ### a. Kunal Kushwaha's Resources
 
 - [DSA & Basic to Medium Algo Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)  
-  *Note: This playlist was never completed but sets a strong foundation.*
+  > Note: This playlist was never completed but sets a strong foundation.
 - [DSA Bootcamp Java (Syllabus & Codes)](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
 ### b. Striver Sheets
 
-*The approach to solving Striver sheets is simple yet elegant: learn first, then solve. Don’t blindly jump into questions or try to memorize them.*
+> The Striver approach: learn first, then solve. Don’t just memorize solutions.
 
 - [Striver A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 - [Striver Blind 75](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions)
@@ -36,43 +44,42 @@ This repository contains a collection of **useful repositories and resources** t
 
 ### c. Striver's YouTube Channel
 
-*Not a great learning resource in my opinion, but definitely amazing for understanding level-wise approaches: starting with brute force, then better, and finally the most optimal solutions.*
+> Not my top pick for learning, but excellent for understanding stepwise approaches: brute force → better → optimal.
 
 - [Striver's Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 
----
+### d. LeetCode
 
-## 3. LeetCode
+**My LeetCode strategy:**
 
-**There is no one way to solve LeetCode, but here’s what works for me:**
+- Solve the daily problem if you understand the topics involved. If not, skip and revisit after learning.
+- **Time Management:**
+  - EASY: Max 30 mins
+  - MEDIUM: Max 1h 30 mins
+  - HARD: Max 1 day
 
-- Always solve the daily problem if you have read and understood the topics involved. If you have no idea about the topic, skip the question for now.
-- **Time Distribution Based on Question Difficulty:**
-  - **EASY:** Max 30 mins thinking time
-  - **MEDIUM:** Max 1h 30 mins thinking time
-  - **HARD:** Max 1 day thinking time
+> Most interviews focus on EASY and MEDIUM questions. HARD is for practice or leisure.
 
-> Most commonly, only EASY to MEDIUM level questions are seen in interviews. HARD questions are for leisure/off-hand problem solving.
+### e. Books
 
----
+**My go-to books for DSA:**
 
-## 4. Books
+| Book Title                                   | Author(s)                                | Notes                                                    |
+|-----------------------------------------------|------------------------------------------|----------------------------------------------------------|
+| Introduction to Algorithms (CLRS)             | Cormen, Leiserson, Rivest, Stein         | Must-read for deep understanding                         |
+| Algorithms Illuminated (Parts 1-3)            | Tim Roughgarden                          | Skip Part 4 unless doing competitive programming         |
+| Data Structures and Algorithms Made Easy      | Narasimha Karunmanchi                    | Practical and concise                                    |
 
-**A wide variety of books are avaliable for DSA throughout the internet here's what works for me:**
+> You don’t need to read all books cover-to-cover; I’ll update recommendations per topic.
 
-### a. CLRS 
-- Full Name : Introduction to Algorithms by THOMAS H. `CORMEN` CHARLES E. `LEISERSON` RONALD L. `RIVEST` CLIFFORD `STEIN`
-  *An absolute must book if you want to truly understand Algorithms and a lot of data structures.*
+### f. Repositories
 
-### b. ALGORITHMS ILLUMINATED
-*Written by : Tim Roughgarden*
-- Part 1 : The Basics
-- Part 2 : Graph Algorithms and Data Structures
-- Part 3 : Greedy Algorithms and Dynamic Programming
-- Part 4 : **SKIP THIS PART IT WILL BE OF NO USE UNLESS YOU ARE LEARNING COMPETITIVE PROGRAMMING**
+**Highly recommended DSA-related repos:**
 
-### c. DATA STRUCTURES AND ALGORITHMS MADE EASY
-*Written by : Narasimha Karunmanchi*
+- [Test Cases and Data Sets for Programming Projects](https://github.com/beaunus/stanford-algs)  
+  Great for real-world simulation projects needing diverse data sets.
 
-> All the books are not needed to be read completly, I'll update which books to read in for which topic. 
+- [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)  
+  Comprehensive overview of FAANG/MAANG interview patterns.
+
 ---
