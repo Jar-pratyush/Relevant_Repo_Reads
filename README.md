@@ -83,3 +83,19 @@ A curated collection of **essential repositories and resources** I use daily for
   Comprehensive overview of FAANG/MAANG interview patterns.
 
 ---
+
+## 3. Core Subjects 
+
+*The core subjects play a crucial role in a lot of concepts of development and machine learning and AI engineering as it relates all of the ideas together.*
+
+### a. Computer Networks
+
+### b. Operating Systems 
+
+### c. Database Management Systems
+
+### d. Design and Analysis of Algorithms
+
+### e. Object Oriented Programming
+
+---
