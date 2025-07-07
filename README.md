@@ -98,4 +98,8 @@ A curated collection of **essential repositories and resources** I use daily for
 
 ### e. Object Oriented Programming
 
+### f. Core Language :
+####    i) One for Scripting
+####   ii) One for OOP
+
 ---
