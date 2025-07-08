@@ -5,3 +5,5 @@
 ---
 
 ## 1. ARRAYS AND HASHING
+---
+## 2. LINKEDLISTS
