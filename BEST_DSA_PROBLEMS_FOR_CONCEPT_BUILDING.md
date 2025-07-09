@@ -7,3 +7,6 @@
 ## 1. ARRAYS AND HASHING
 ---
 ## 2. LINKEDLISTS
+---
+## 3. STACKS
+---
