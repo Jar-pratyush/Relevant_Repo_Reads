@@ -8,6 +8,6 @@
 ---
 ## 2. LINKEDLISTS
 ---
-## 3. STACKS
+## 3. STACKS AND QUEUES
 ---
-
+## 4. BINARY SEARCH
