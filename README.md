@@ -93,7 +93,7 @@ A curated collection of **essential repositories and resources** I use daily for
 ### b. Operating Systems 
 
 ### c. Database Management Systems
-####  i) PostgreSQL 
+####    i) PostgreSQL 
 
 ### d. Design and Analysis of Algorithms
 
