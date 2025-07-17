@@ -11,3 +11,5 @@
 ## 3. STACKS AND QUEUES
 ---
 ## 4. BINARY SEARCH
+---
+## 5. TREES
